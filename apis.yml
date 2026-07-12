@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://icon.horse
 common:
+  - type: DomainSecurity
+    url: security/icon-horse-domain-security.yml
   - type: Website
     url: https://icon.horse
   - type: PublicAPIsListing
