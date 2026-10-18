@@ -39,7 +39,8 @@ apis:
   - name: Icon Horse
     description: "Favicons for any website, with fallbacks"
     humanURL: https://icon.horse
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
